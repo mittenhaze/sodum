@@ -24,7 +24,7 @@ I follow [this](https://viewsourcecode.org/snaptoken/kilo/) guide. It uses C, I 
 
 ## Features.
 
-It echos the characters you type and quits on `Ctrl + D`.
+It echoes the characters you type and quits on `Ctrl + D`.
 
 ## How to install?
 
