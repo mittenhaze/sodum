@@ -7,7 +7,7 @@ I have ADHD so I wanted to eliminate as many distractions in Emacs as possible.
 Unfortunately I couldn't change everything I wanted. For example, I haven't
 found a way to turn off messages in the echo area. I also couldn't find any
 other text editor that I can configure to be "100% distraction free". This
-motivated me to make my own text editor.
+motivated me to make my own text editor.  
 My main goal is personal use, but I hope you'll find it useful as well.
 
 ## How?
